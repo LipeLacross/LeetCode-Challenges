@@ -7,7 +7,7 @@ Este repositório contém soluções para os problemas do LeetCode. O objetivo �
 ## 🌪️ Funcionalidades do Projeto
 - Soluções organizadas por dificuldade (**Easy, Medium, Hard**)
 - Códigos comentados e documentados
-- Uso de diferentes linguagens de programação (exemplo: Python, TypeScript)
+- Uso de diferentes linguagens de programação 
 
 ### Exemplo Visual do Projeto
 - Estrutura organizada em pastas por categoria de problemas
@@ -16,7 +16,7 @@ Este repositório contém soluções para os problemas do LeetCode. O objetivo �
 ## ✔️ Técnicas e Tecnologias Utilizadas
 - **Algoritmos:** Algoritmos de busca, programação dinâmica, algoritmos gulosos, etc.
 - **Estruturas de Dados:** Arrays, HashMaps, Pilhas, Filas, Listas Ligadas
-- **Linguagens:** Python, TypeScript
+- **Linguagens:** Python, TypeScript, Javascript
 - **Testes:** Testes unitários para validar soluções
 
 ## 💽 Estrutura do Projeto

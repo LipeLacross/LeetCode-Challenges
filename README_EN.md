@@ -7,7 +7,7 @@ This repository contains solutions to LeetCode problems. The goal is to practice
 ## 🌪️ Project Features
 - Solutions organized by difficulty (**Easy, Medium, Hard**)
 - Well-commented and documented code
-- Use of different programming languages (e.g., Python, TypeScript)
+- Use of different programming languages 
 
 ### Visual Example of the Project
 - Structured in folders by problem category
@@ -16,7 +16,7 @@ This repository contains solutions to LeetCode problems. The goal is to practice
 ## ✔️ Techniques and Technologies Used
 - **Algorithms:** Search algorithms, dynamic programming, greedy algorithms, etc.
 - **Data Structures:** Arrays, HashMaps, Stacks, Queues, Linked Lists
-- **Languages:** Python, TypeScript
+- **Languages:** Python, TypeScript, Javascript
 - **Testing:** Unit tests to validate solutions
 
 ## 💽 Project Structure
